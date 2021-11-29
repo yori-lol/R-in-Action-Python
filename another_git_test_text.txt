@@ -1,0 +1,4 @@
+this is another text for testing git.
+this is the hot fix branch
+this is a conflict test too!
+this is hot fix conflict test too!
